@@ -1,2 +1,1 @@
 # Knapsack
-# Knapsack
