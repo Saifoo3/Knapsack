@@ -122,6 +122,7 @@ function App() {
       <button onClick={calculate}>Save To Database</button>
       <button onClick={clearInputs}>Clear</button>
 
+{/* Code for creating table */}
       <h1>Knapsack Data:</h1>
       <table>
         <thead>
